@@ -1,0 +1,11 @@
+{
+  "power_consumption": 150,
+  "network_packets": 500,
+  "sensor_reading": 25.5,
+  "device_type": "security_camera",
+  "ip_address": "192.168.1.101",
+  "temperature": 22.5,
+  "humidity": 45.2,
+  "motion_detected": false,
+  "timestamp": "2025-08-05T16:48:28.984666"
+} 

@@ -1,0 +1,38 @@
+{
+  "security_events": [
+    {
+      "type": "DDoS",
+      "severity": "HIGH",
+      "source_ip": "192.168.1.100",
+      "target_port": 80,
+      "timestamp": "2025-08-05T16:48:28.984666"
+    },
+    {
+      "type": "PortScan",
+      "severity": "MEDIUM",
+      "source_ip": "10.0.0.50",
+      "ports_scanned": [22, 23, 80, 443, 3389],
+      "timestamp": "2025-08-05T16:49:15.123456"
+    }
+  ],
+  "iot_device_status": {
+    "device_001": {
+      "status": "online",
+      "anomaly_score": 0.8,
+      "device_type": "security_camera",
+      "ip_address": "192.168.1.101"
+    },
+    "device_002": {
+      "status": "online",
+      "anomaly_score": 0.2,
+      "device_type": "smart_thermostat",
+      "ip_address": "192.168.1.102"
+    }
+  },
+  "network_status": {
+    "suspicious_connections": 15,
+    "total_connections": 1000,
+    "bandwidth_usage": "75%",
+    "active_threats": 2
+  }
+} 

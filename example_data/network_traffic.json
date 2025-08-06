@@ -1,0 +1,10 @@
+{
+  "flow_duration": 60,
+  "packet_count": 5000,
+  "port": 80,
+  "bytes_transferred": 1000000,
+  "source_ip": "192.168.1.100",
+  "destination_ip": "10.0.0.1",
+  "protocol": "HTTP",
+  "timestamp": "2025-08-05T16:48:28.984666"
+} 
