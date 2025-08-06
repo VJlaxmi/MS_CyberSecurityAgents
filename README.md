@@ -359,23 +359,6 @@ result = iot_agent.invoke({"messages": [{"role": "user", "content": "Test query"
 - Include unit tests for new features
 - Update documentation for API changes
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **LangGraph Team**: For the excellent framework
-- **OpenAI**: For providing the GPT models
-- **Canadian Institute for Cybersecurity**: For the CIC-IDS2017 dataset
-- **Cybersecurity Community**: For threat intelligence and best practices
-
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/VJlaxmi/MS_CyberSecurityAgents/issues)
-- **Documentation**: [Wiki](https://github.com/VJlaxmi/MS_CyberSecurityAgents/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/VJlaxmi/MS_CyberSecurityAgents/discussions)
-
 ---
 
 **Built with love for the cybersecurity community** 
